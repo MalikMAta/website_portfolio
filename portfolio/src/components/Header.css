@@ -1,0 +1,16 @@
+.nav-wrap{
+  width: 100%;
+  text-align: center;
+}
+
+.nav-content{
+margin-top: 10px;
+
+
+}
+.nav-content > a {
+  text-decoration:none;
+  color: black;
+  margin-left: 10px;
+
+}
